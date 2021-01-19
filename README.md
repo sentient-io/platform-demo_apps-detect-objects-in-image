@@ -1,0 +1,1 @@
+# platform-demo_apps-detect-objects-in-image
